@@ -1,16 +1,54 @@
-# budget_tracker
+Budget Tracker App
+Overview
+The Budget Tracker App is a cross-platform mobile application designed to help users manage their finances efficiently. The app utilizes a serverless architecture with AWS as the backend and Flutter as the frontend framework.
 
-A new Flutter project.
+Features
+Expense Tracking: Log your expenses and categorize them for better financial insights.
+Budget Planning: Set monthly budgets for different categories to manage your spending.
+Visual Analytics: View charts and graphs to analyze your spending patterns over time.
+Secure Authentication: User data is secured with AWS Cognito for authentication and authorization.
+Technologies Used
+Backend:
 
-## Getting Started
+AWS Lambda
+AWS DynamoDB
+AWS API Gateway
+AWS Cognito
+Frontend:
 
-This project is a starting point for a Flutter application.
+Flutter
+Dart
+Setup Instructions
+Backend Setup
+AWS Account:
 
-A few resources to get you started if this is your first Flutter project:
+Create an AWS account if you don't have one.
+Set up AWS Lambda functions, DynamoDB tables, API Gateway, and Cognito User Pool.
+Configuration:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Configure your AWS credentials using the AWS CLI or environment variables.
+Deployment:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Deploy the backend components using AWS Serverless Application Model (SAM) or other deployment methods.
+Frontend Setup
+Flutter Installation:
+
+Install Flutter by following the instructions on the official Flutter website.
+Dependencies:
+
+Navigate to the Flutter project directory and run flutter pub get to install the project dependencies.
+Configuration:
+
+Update the backend API endpoint in the Flutter code to match the deployed AWS API Gateway URL.
+Run the App:
+
+Connect your mobile device or use an emulator.
+Run flutter run in the project directory to launch the app.
+Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or create a pull request.
+
+License
+This project is licensed under the MIT License.
+
+Contact
+For any inquiries or support, please contact [your email address].
