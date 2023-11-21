@@ -6,9 +6,10 @@ The Budget Tracker App is a cross-platform mobile application designed to help u
 ## **Features**
 * **Expense Tracking:** Log your expenses and categorize them for better financial insights.
 * **Budget Planning:** Set monthly budgets for different categories to manage your spending.
-![image](https://github.com/Naval1704/Budget-Tracker-App/assets/108187176/a8c89cd6-b41c-4526-ba97-ae4b23216b6c)
+![70c01694-cb53-414b-8bac-edc69b68125f (1)](https://github.com/Naval1704/Budget-Tracker-App/assets/108187176/f006807f-e12b-4edf-8914-247b1fbd0e81)
 * **Secure Authentication:** User data is secured with AWS Cognito for authentication and authorization.
-![image](https://github.com/Naval1704/Budget-Tracker-App/assets/108187176/095f978a-eafa-458e-98c6-cf5b39673692)
+![7ea0e9bb-8d4d-4db4-a3c8-79c310e71a59 (1)](https://github.com/Naval1704/Budget-Tracker-App/assets/108187176/9e8f5e9a-526a-4dd5-8293-c3405a3cf404)
+
 
 
 ## **Technologies Used**
