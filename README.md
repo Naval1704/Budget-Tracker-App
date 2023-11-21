@@ -13,7 +13,6 @@ The Budget Tracker App is a cross-platform mobile application designed to help u
 
 ![73e92283-3986-4d5f-8c8f-589ebc317cda](https://github.com/Naval1704/Budget-Tracker-App/assets/108187176/1f78a540-847b-41b8-bc6d-cbb6f36ccd62)
 
-
 ## **Technologies Used**
 * **Backend**
   * Amazon S3 (Simple Storage Service)
